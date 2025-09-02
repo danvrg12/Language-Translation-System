@@ -203,13 +203,6 @@ Contributions are welcome! Here's how you can help:
 4. **Test thoroughly**
 5. **Submit a pull request**
 
-### Development Guidelines
-- Follow PEP 8 for Python code
-- Add docstrings to functions
-- Test with different sentence lengths
-- Ensure model convergence before deployment
-- Update documentation for new features
-
 ### Potential Improvements
 - Add attention mechanism to decoder
 - Implement bidirectional LSTM encoder
